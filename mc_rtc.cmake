@@ -274,7 +274,7 @@ AddProject(
   mc_state_observation
   # GITHUB jrl-umi3218/mc_state_observation
   # GIT_TAG origin/main
-  GITHUB ArnaudDmt/mc_state_observation
+  GITHUB RuudErens/mc_state_observation
   GIT_TAG origin/submission_TRO_KineticsObserver_24_12
   CMAKE_ARGS ${MC_STATE_OBSERVATION_OPTIONS}
   DEPENDS ${MC_STATE_OBSERVATION_DEPENDS}
